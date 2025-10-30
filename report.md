@@ -15,7 +15,7 @@ code: 17
 ## Kernel Checks: 
 
 > [!CAUTION]
- > Error: Python versions don't match. The notebook is using **python-3.10.18**, when **python-3.11.9** is required.
+ > Error: Python versions don't match. The notebook is using **python-3.13.5**, when **python-3.11.9** is required.
 
 > [!TIP]
  > Try changing **runtime.txt** to resolve the error above.
@@ -56,15 +56,15 @@ Total number of audios: 0
 | Tag | Cell | Remark |
 | --- | --- | --- |
 | image/png | 24 | Image is not tagged properly [Check here ](https://journalofdigitalhistory.org/en/notebook-viewer/JTJGcHJveHktZ2l0aHVidXNlcmNvbnRlbnQlMkZqZGgtb2JzZXJ2ZXIlMkZNV0VaRUNMR0RXNjQlMkZtYWluJTJGYXJ0aWNsZS5pcHluYg==?idx=24) |
-| image/png | 25 | Tags are not defined for the cell |
-| image/png | 26 | Tags are not defined for the cell |
+| image/png | 25 | Image is not tagged properly [Check here ](https://journalofdigitalhistory.org/en/notebook-viewer/JTJGcHJveHktZ2l0aHVidXNlcmNvbnRlbnQlMkZqZGgtb2JzZXJ2ZXIlMkZNV0VaRUNMR0RXNjQlMkZtYWluJTJGYXJ0aWNsZS5pcHluYg==?idx=25) |
+| image/png | 26 | Image is not tagged properly [Check here ](https://journalofdigitalhistory.org/en/notebook-viewer/JTJGcHJveHktZ2l0aHVidXNlcmNvbnRlbnQlMkZqZGgtb2JzZXJ2ZXIlMkZNV0VaRUNMR0RXNjQlMkZtYWluJTJGYXJ0aWNsZS5pcHluYg==?idx=26) |
 | image/png | 47 | Image is not tagged properly [Check here ](https://journalofdigitalhistory.org/en/notebook-viewer/JTJGcHJveHktZ2l0aHVidXNlcmNvbnRlbnQlMkZqZGgtb2JzZXJ2ZXIlMkZNV0VaRUNMR0RXNjQlMkZtYWluJTJGYXJ0aWNsZS5pcHluYg==?idx=47) |
-| image/png | 48 | Tags are not defined for the cell |
-| image/png | 49 | Tags are not defined for the cell |
+| image/png | 48 | Image is not tagged properly [Check here ](https://journalofdigitalhistory.org/en/notebook-viewer/JTJGcHJveHktZ2l0aHVidXNlcmNvbnRlbnQlMkZqZGgtb2JzZXJ2ZXIlMkZNV0VaRUNMR0RXNjQlMkZtYWluJTJGYXJ0aWNsZS5pcHluYg==?idx=48) |
+| image/png | 49 | Image is not tagged properly [Check here ](https://journalofdigitalhistory.org/en/notebook-viewer/JTJGcHJveHktZ2l0aHVidXNlcmNvbnRlbnQlMkZqZGgtb2JzZXJ2ZXIlMkZNV0VaRUNMR0RXNjQlMkZtYWluJTJGYXJ0aWNsZS5pcHluYg==?idx=49) |
 | image/png | 51 | Image is not tagged properly [Check here ](https://journalofdigitalhistory.org/en/notebook-viewer/JTJGcHJveHktZ2l0aHVidXNlcmNvbnRlbnQlMkZqZGgtb2JzZXJ2ZXIlMkZNV0VaRUNMR0RXNjQlMkZtYWluJTJGYXJ0aWNsZS5pcHluYg==?idx=51) |
-| image/png | 52 | Tags are not defined for the cell |
-| image/png | 53 | Tags are not defined for the cell |
-| image/png | 54 | Tags are not defined for the cell |
+| image/png | 52 | Image is not tagged properly [Check here ](https://journalofdigitalhistory.org/en/notebook-viewer/JTJGcHJveHktZ2l0aHVidXNlcmNvbnRlbnQlMkZqZGgtb2JzZXJ2ZXIlMkZNV0VaRUNMR0RXNjQlMkZtYWluJTJGYXJ0aWNsZS5pcHluYg==?idx=52) |
+| image/png | 53 | Image is not tagged properly [Check here ](https://journalofdigitalhistory.org/en/notebook-viewer/JTJGcHJveHktZ2l0aHVidXNlcmNvbnRlbnQlMkZqZGgtb2JzZXJ2ZXIlMkZNV0VaRUNMR0RXNjQlMkZtYWluJTJGYXJ0aWNsZS5pcHluYg==?idx=53) |
+| image/png | 54 | Image is not tagged properly [Check here ](https://journalofdigitalhistory.org/en/notebook-viewer/JTJGcHJveHktZ2l0aHVidXNlcmNvbnRlbnQlMkZqZGgtb2JzZXJ2ZXIlMkZNV0VaRUNMR0RXNjQlMkZtYWluJTJGYXJ0aWNsZS5pcHluYg==?idx=54) |
 
 
 ### Check HTML
@@ -203,6 +203,9 @@ No JavaScript code found in output cells.
 - Cell 21: Tags: ['hermeneutics']
 - Cell 22: Tags: ['hermeneutics']
 - Cell 23: Tags: ['hermeneutics']
+- Cell 24: Tags: ['figure-intro-page-scalar-exhibit-*']
+- Cell 25: Tags: ['figure-intro-page-scalar-*']
+- Cell 26: Tags: ['figure-historical-sources-scalar-*']
 - Cell 27: Tags: ['hermeneutics']
 - Cell 28: Tags: ['hermeneutics']
 - Cell 29: Tags: ['hermeneutics']
@@ -210,13 +213,19 @@ No JavaScript code found in output cells.
 - Cell 44: Tags: ['hermeneutics']
 - Cell 45: Tags: ['hermeneutics']
 - Cell 46: Tags: ['hermeneutics']
-- Cell 47: Tags: ['hermeneutics']
+- Cell 47: Tags: ['hermeneutics', 'figure-intro-page-scholarminpub-*']
+- Cell 48: Tags: ['figure-layout-intro-page-scholarminpub-*']
+- Cell 49: Tags: ['figure-zoom-feature-images-scholarminpub-*']
 - Cell 50: Tags: ['hermeneutics']
-- Cell 51: Tags: ['hermeneutics']
+- Cell 51: Tags: ['hermeneutics', 'figure-github-repo-schohlarminpub-*']
+- Cell 52: Tags: ['figure-student-file-management-scholarminpub-*']
+- Cell 53: Tags: ['figure-config-files-scholarminpub-*']
+- Cell 54: Tags: ['figure-text-editing-environment-scholarminpub-*']
 - Cell 56: Tags: ['hermeneutics']
 - Cell 58: Tags: ['hermeneutics']
 - Cell 60: Tags: ['hermeneutics']
 - Cell 62: Tags: ['hermeneutics']
+- Cell 66: Tags: ['hermeneutics']
 > [!WARNING]
 > The following tags are missing or invalid
 
